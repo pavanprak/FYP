@@ -1,0 +1,101 @@
+ Word		Tag
+Paracetamol		B-Drug
+Aspirin		B-Drug
+Amoxicillin		B-Drug
+Omeprazole		B-Drug
+Metformin		B-Drug
+Atorvastatin		B-Drug
+Ibuprofen		B-Drug
+Azithromycin		B-Drug
+Ciprofloxacin		B-Drug
+Ranitidine		B-Drug
+Diclofenac		B-Drug
+Pantoprazole		B-Drug
+Levofloxacin		B-Drug
+Amlodipine		B-Drug
+Gabapentin		B-Drug
+Metronidazole		B-Drug
+Doxycycline		B-Drug
+Domperidone		B-Drug
+Erythromycin		B-Drug
+Fluconazole		B-Drug
+Sertraline		B-Drug
+Losartan		B-Drug
+Rosuvastatin		B-Drug
+Tramadol		B-Drug
+Cefixime		B-Drug
+Ceftriaxone		B-Drug
+Glimepiride		B-Drug
+Moxifloxacin		B-Drug
+Rabeprazole		B-Drug
+Montelukast		B-Drug
+Sildenafil		B-Drug
+Duloxetine		B-Drug
+Clindamycin		B-Drug
+Naproxen		B-Drug
+Pioglitazone		B-Drug
+Escitalopram		B-Drug
+Telmisartan		B-Drug
+Cetirizine		B-Drug
+Fluticasone		B-Drug
+Valsartan		B-Drug
+Dicloxacillin		B-Drug
+Metoprolol		B-Drug
+Lorazepam		B-Drug
+Venlafaxine		B-Drug
+Levocetirizine		B-Drug
+Pregabalin		B-Drug
+Carbamazepine		B-Drug
+Atorvastatin + Amlodipine		B-Drug
+Aceclofenac		B-Drug
+Metformin + Glimepiride		B-Drug
+Malaria		B-Disease
+Tuberculosis		B-Disease
+Diabetes		B-Disease
+Hypertension		B-Disease
+Dengue fever		B-Disease
+Chikungunya		B-Disease
+Typhoid fever		B-Disease
+Cholera		B-Disease
+Hepatitis		B-Disease
+Cancer		B-Disease
+Influenza		B-Disease
+Pneumonia		B-Disease
+Asthma		B-Disease
+Arthritis		B-Disease
+Osteoporosis		B-Disease
+Alzheimer's disease		B-Disease
+Parkinson's disease		B-Disease
+Stroke		B-Disease
+Heart disease		B-Disease
+Chronic obstructive pulmonary disease (COPD)		B-Disease
+HIV/AIDS		B-Disease
+Meningitis		B-Disease
+Measles		B-Disease
+Chickenpox		B-Disease
+Rabies		B-Disease
+Leukemia		B-Disease
+Multiple sclerosis		B-Disease
+Psoriasis		B-Disease
+Gastroenteritis		B-Disease
+Ulcerative colitis		B-Disease
+Crohn's disease		B-Disease
+Glaucoma		B-Disease
+Cataracts		B-Disease
+Epilepsy		B-Disease
+Depression		B-Disease
+Anxiety disorder		B-Disease
+Schizophrenia		B-Disease
+Bipolar disorder		B-Disease
+Autism spectrum disorder		B-Disease
+Down syndrome		B-Disease
+Cerebral palsy		B-Disease
+Ovarian cancer		B-Disease
+Prostate cancer		B-Disease
+Breast cancer		B-Disease
+Lung cancer		B-Disease
+Colon cancer		B-Disease
+Pancreatic cancer		B-Disease
+Leukemia		B-Disease
+Lymphoma		B-Disease
+Kidney disease		B-Disease

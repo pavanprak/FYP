@@ -1,0 +1,100 @@
+{"id":2,"text":"Paracetamol","label":["Medicine"],"Comments":[]}
+{"id":3,"text":"Aspirin","label":["Medicine"],"Comments":[]}
+{"id":4,"text":"Amoxicillin","label":["Medicine"],"Comments":[]}
+{"id":5,"text":"Omeprazole","label":["Medicine"],"Comments":[]}
+{"id":6,"text":"Metformin","label":["Medicine"],"Comments":[]}
+{"id":7,"text":"Atorvastatin","label":["Medicine"],"Comments":[]}
+{"id":8,"text":"Ibuprofen","label":["Medicine"],"Comments":[]}
+{"id":9,"text":"Azithromycin","label":["Medicine"],"Comments":[]}
+{"id":10,"text":"Ciprofloxacin","label":["Medicine"],"Comments":[]}
+{"id":11,"text":"Ranitidine","label":["Medicine"],"Comments":[]}
+{"id":12,"text":"Diclofenac","label":["Medicine"],"Comments":[]}
+{"id":13,"text":"Pantoprazole","label":["Medicine"],"Comments":[]}
+{"id":14,"text":"Levofloxacin","label":["Medicine"],"Comments":[]}
+{"id":15,"text":"Amlodipine","label":["Medicine"],"Comments":[]}
+{"id":16,"text":"Gabapentin","label":["Medicine"],"Comments":[]}
+{"id":17,"text":"Metronidazole","label":["Medicine"],"Comments":[]}
+{"id":18,"text":"Doxycycline","label":["Medicine"],"Comments":[]}
+{"id":19,"text":"Domperidone","label":["Medicine"],"Comments":[]}
+{"id":20,"text":"Erythromycin","label":["Medicine"],"Comments":[]}
+{"id":21,"text":"Fluconazole","label":["Medicine"],"Comments":[]}
+{"id":22,"text":"Sertraline","label":["Medicine"],"Comments":[]}
+{"id":23,"text":"Losartan","label":["Medicine"],"Comments":[]}
+{"id":24,"text":"Rosuvastatin","label":["Medicine"],"Comments":[]}
+{"id":25,"text":"Tramadol","label":["Medicine"],"Comments":[]}
+{"id":26,"text":"Cefixime","label":["Medicine"],"Comments":[]}
+{"id":27,"text":"Ceftriaxone","label":["Medicine"],"Comments":[]}
+{"id":28,"text":"Glimepiride","label":["Medicine"],"Comments":[]}
+{"id":29,"text":"Moxifloxacin","label":["Medicine"],"Comments":[]}
+{"id":30,"text":"Rabeprazole","label":["Medicine"],"Comments":[]}
+{"id":31,"text":"Montelukast","label":["Medicine"],"Comments":[]}
+{"id":32,"text":"Sildenafil","label":["Medicine"],"Comments":[]}
+{"id":33,"text":"Duloxetine","label":["Medicine"],"Comments":[]}
+{"id":34,"text":"Clindamycin","label":["Medicine"],"Comments":[]}
+{"id":35,"text":"Naproxen","label":["Medicine"],"Comments":[]}
+{"id":36,"text":"Pioglitazone","label":["Medicine"],"Comments":[]}
+{"id":37,"text":"Escitalopram","label":["Medicine"],"Comments":[]}
+{"id":38,"text":"Telmisartan","label":["Medicine"],"Comments":[]}
+{"id":39,"text":"Cetirizine","label":["Medicine"],"Comments":[]}
+{"id":40,"text":"Fluticasone","label":["Medicine"],"Comments":[]}
+{"id":41,"text":"Valsartan","label":["Medicine"],"Comments":[]}
+{"id":42,"text":"Dicloxacillin","label":["Medicine"],"Comments":[]}
+{"id":43,"text":"Metoprolol","label":["Medicine"],"Comments":[]}
+{"id":44,"text":"Lorazepam","label":["Medicine"],"Comments":[]}
+{"id":45,"text":"Venlafaxine","label":["Medicine"],"Comments":[]}
+{"id":46,"text":"Levocetirizine","label":["Medicine"],"Comments":[]}
+{"id":47,"text":"Pregabalin","label":["Medicine"],"Comments":[]}
+{"id":48,"text":"Carbamazepine","label":["Medicine"],"Comments":[]}
+{"id":49,"text":"Atorvastatin + Amlodipine","label":["Medicine"],"Comments":[]}
+{"id":50,"text":"Aceclofenac","label":["Medicine"],"Comments":[]}
+{"id":51,"text":"Metformin + Glimepiride","label":["Medicine"],"Comments":[]}
+{"id":52,"text":"Malaria","label":["Medicine"],"Comments":[]}
+{"id":53,"text":"Tuberculosis","label":["Medicine"],"Comments":[]}
+{"id":54,"text":"Diabetes","label":["Disease"],"Comments":[]}
+{"id":55,"text":"Hypertension","label":["Disease"],"Comments":[]}
+{"id":56,"text":"Dengue fever","label":["Disease"],"Comments":[]}
+{"id":57,"text":"Chikungunya","label":["Disease"],"Comments":[]}
+{"id":58,"text":"Typhoid fever","label":["Disease"],"Comments":[]}
+{"id":59,"text":"Cholera","label":["Disease"],"Comments":[]}
+{"id":60,"text":"Hepatitis","label":["Disease"],"Comments":[]}
+{"id":61,"text":"Cancer","label":["Disease"],"Comments":[]}
+{"id":62,"text":"Influenza","label":["Disease"],"Comments":[]}
+{"id":63,"text":"Pneumonia","label":["Disease"],"Comments":[]}
+{"id":64,"text":"Asthma","label":["Disease"],"Comments":[]}
+{"id":65,"text":"Arthritis","label":["Disease"],"Comments":[]}
+{"id":66,"text":"Osteoporosis","label":["Disease"],"Comments":[]}
+{"id":67,"text":"Alzheimer's disease","label":["Disease"],"Comments":[]}
+{"id":68,"text":"Parkinson's disease","label":["Disease"],"Comments":[]}
+{"id":69,"text":"Stroke","label":["Disease"],"Comments":[]}
+{"id":70,"text":"Heart disease","label":["Disease"],"Comments":[]}
+{"id":71,"text":"Chronic obstructive pulmonary disease (COPD)","label":["Disease"],"Comments":[]}
+{"id":72,"text":"HIV\/AIDS","label":["Disease"],"Comments":[]}
+{"id":73,"text":"Meningitis","label":["Disease"],"Comments":[]}
+{"id":74,"text":"Measles","label":["Disease"],"Comments":[]}
+{"id":75,"text":"Chickenpox","label":["Disease"],"Comments":[]}
+{"id":76,"text":"Rabies","label":["Disease"],"Comments":[]}
+{"id":77,"text":"Leukemia","label":["Disease"],"Comments":[]}
+{"id":78,"text":"Multiple sclerosis","label":["Disease"],"Comments":[]}
+{"id":79,"text":"Psoriasis","label":["Disease"],"Comments":[]}
+{"id":80,"text":"Gastroenteritis","label":["Disease"],"Comments":[]}
+{"id":81,"text":"Ulcerative colitis","label":["Disease"],"Comments":[]}
+{"id":82,"text":"Crohn's disease","label":["Disease"],"Comments":[]}
+{"id":83,"text":"Glaucoma","label":["Disease"],"Comments":[]}
+{"id":84,"text":"Cataracts","label":["Disease"],"Comments":[]}
+{"id":85,"text":"Epilepsy","label":["Disease"],"Comments":[]}
+{"id":86,"text":"Depression","label":["Disease"],"Comments":[]}
+{"id":87,"text":"Anxiety disorder","label":["Disease"],"Comments":[]}
+{"id":88,"text":"Schizophrenia","label":["Disease"],"Comments":[]}
+{"id":89,"text":"Bipolar disorder","label":["Disease"],"Comments":[]}
+{"id":90,"text":"Autism spectrum disorder","label":["Disease"],"Comments":[]}
+{"id":91,"text":"Down syndrome","label":["Disease"],"Comments":[]}
+{"id":92,"text":"Cerebral palsy","label":["Disease"],"Comments":[]}
+{"id":93,"text":"Ovarian cancer","label":["Disease"],"Comments":[]}
+{"id":94,"text":"Prostate cancer","label":["Disease"],"Comments":[]}
+{"id":95,"text":"Breast cancer","label":["Disease"],"Comments":[]}
+{"id":96,"text":"Lung cancer","label":["Disease"],"Comments":[]}
+{"id":97,"text":"Colon cancer","label":["Disease"],"Comments":[]}
+{"id":98,"text":"Pancreatic cancer","label":["Disease"],"Comments":[]}
+{"id":99,"text":"Leukemia","label":["Disease"],"Comments":[]}
+{"id":100,"text":"Lymphoma","label":["Disease"],"Comments":[]}
+{"id":101,"text":"Kidney disease","label":["Disease"],"Comments":[]}
